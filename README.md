@@ -18,9 +18,6 @@
 - 🎮 Fun fact: I debug with lo-fi beats and name my branches like movie sequels.  
 
 ---
-
-
-
 ## 🧰 Tech & Tools
 **Languages:** `Java` · `C++` · `C#/.NET` · `JavaScript/TypeScript` · `Python`  
 **Frontend:** `React` · `Next.js` · `HTML` · `CSS`  
@@ -28,20 +25,6 @@
 **Databases:** `PostgreSQL` · `MongoDB` · `MySQL` 
 **DevOps:** `GitHub Actions` ·  `Azure/AWS`  
 **Testing:**  `Postman`  
-
-
-
-## 📈 GitHub Stats (because graphs = credibility)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flowgirlcode&show_icons=true&hide_title=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowgirlcode&layout=compact" height="160" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=flowgirlcode" height="160" />
-</p>
-
----
-
 ## 🧠 What I’m Up To
 - 🔭 Building: CURRENT_BUILD_OR_EXPERIMENT  
 - 🤝 Open to: **SDE roles, internships**  
